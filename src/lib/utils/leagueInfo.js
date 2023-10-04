@@ -22,7 +22,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": "655941868089065472",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "655941868089065472",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mateo",
       "location": "New York, NY", // (optional)
       "bio": "I like Messi the soccer player",
@@ -43,7 +43,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": "718981281211314176",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "718981281211314176",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Max Nitke",
       "location": "Pittsburgh, PA", // (optional)
       "bio": "Baseball, Trains, Chokes in the Playoffs",
@@ -64,7 +64,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": "718981281211314176",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "718981281211314176",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Messiah Malachi McCall",
       "location": "New York, NY", // (optional)
       "bio": "Commish",
@@ -85,7 +85,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
       {
-      "roster": "728852440018993152",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "728852440018993152",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Evan Bolotsky",
       "location": "New York, NY", // (optional)
       "bio": "Consultant. father of pPAPR",
@@ -106,7 +106,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
         {
-      "roster": "728998991492128768",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "728998991492128768",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jackson Wald",
       "location": "Richmond, VA", // (optional)
       "bio": "Founder of Teamwork Magazine, trying to become New York Nico.",
@@ -127,7 +127,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
         {
-      "roster": "729055392742617088",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "729055392742617088",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jack Kranes",
       "location": "New York, NY", // (optional)
       "bio": "Hat guy, friend of Julian",
@@ -148,7 +148,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
         {
-      "roster": "729057931487735808",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "729057931487735808",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Christian Noll",
       "location": "New York, NY", // (optional)
       "bio": "UFFL Music guy, ambient noodles, trying to trade for your best player",
@@ -169,7 +169,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
           {
-      "roster": "729111816856248320",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "729111816856248320",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Sam Jacovitz",
       "location": "New York, NY", // (optional)
       "bio": "Stole Max's knicks hat. Quietly the best hooper in the league. this year's sacko",
@@ -190,7 +190,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
           {
-      "roster": "729178278530777088",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "729178278530777088",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Sam Rockwell",
       "location": "New York, NY", // (optional)
       "bio": "Ping-pong legend, always seems to score highly",
@@ -211,7 +211,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
           {
-      "roster": "730125549820846080",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "730125549820846080",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "William David Cohen",
       "location": "New York, NY", // (optional)
       "bio": "Patriot. Georgia Dawgs.",
